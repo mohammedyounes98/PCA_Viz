@@ -5,6 +5,14 @@
 
 The PCA Visualizer is an interactive Shiny application designed to help users understand and visualize Principal Component Analysis (PCA) in a straightforward and engaging way. The app allows users to generate random data with a specified correlation, perform PCA on the data, and visualize the results interactively.
 
+## Results
+Below is a screenshot of the PCA Visualizer in action:
+
+![image](https://github.com/user-attachments/assets/3c5d2f11-37f7-4899-bf49-c6d9f250fe6c)
+
+You can try out the PCA Visualizer Shiny app live [here](https://mohammedyounes.shinyapps.io/pca_viz/)
+
+
 ## Features
 
 -   **Interactive Data Generation**: Users can generate random datasets with a specified number of points and correlation between the variables.
