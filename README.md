@@ -1,7 +1,3 @@
----
-title: "PCA Visualizer Shiny App"
-output: github_document
----
 
 # PCA Visualizer Shiny App
 
@@ -27,9 +23,9 @@ The PCA Visualizer is an interactive Shiny application designed to help users un
 
 1.  **Clone the repository**:
 
-```{bash}
-git clone https://github.com/mohammedyounes98/PCA_Viz
-```
+    ```{bash}
+    git clone https://github.com/mohammedyounes98/PCA_Viz
+    ```
 
 2.  **Install the required packages** in R:
 
@@ -37,9 +33,7 @@ git clone https://github.com/mohammedyounes98/PCA_Viz
     install.packages(c("shiny", "ggplot2", "dplyr", "plotly"))
     ```
 
-```{=html}
-<!-- -->
-```
+
 3.  **Run the Shiny app**:
 
     ```{r}
@@ -86,7 +80,7 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ## License
 
-This project is licensed under the MIT License. See the \`[LICENSE](https://github.com/mohammedyounes98/PCA_Viz/blob/main/LICENSE)\` file for details.
+This project is licensed under the  GNU General Public License (GPL v3) License. See the [LICENSE](https://github.com/mohammedyounes98/PCA_Viz/blob/main/LICENSE) file for details.
 
 ## Author
 
